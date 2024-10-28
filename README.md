@@ -16,7 +16,7 @@ Primeiro Prompt:
 - Pergunta: "Estou programando um jantar romântico, nesse jantar irei pedir macarrão, me dê uma lista de 3 itens que combinam em uma experiência gastronômica."
 
 - Resposta simulada: Para complementar o macarrão em um jantar romântico, você poderia considerar:
-    1.Pão de alho: levemente torrado, para acompanhar como entrada.
+  1.Pão de alho: levemente torrado, para acompanhar como entrada.
     2.Queijo parmesão ralado fresco: para polvilhar no prato e realçar o sabor.
     3.Salada Caprese: uma combinação leve de tomate, manjericão e mussarela de búfala.
 
