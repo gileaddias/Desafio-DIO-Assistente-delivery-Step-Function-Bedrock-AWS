@@ -16,9 +16,12 @@ Primeiro Prompt:
 - Pergunta: "Estou programando um jantar romântico, nesse jantar irei pedir macarrão, me dê uma lista de 3 itens que combinam em uma experiência gastronômica."
 
 - Resposta simulada: Para complementar o macarrão em um jantar romântico, você poderia considerar:
+  
   1.Pão de alho: levemente torrado, para acompanhar como entrada.
-    2.Queijo parmesão ralado fresco: para polvilhar no prato e realçar o sabor.
-    3.Salada Caprese: uma combinação leve de tomate, manjericão e mussarela de búfala.
+  
+  2.Queijo parmesão ralado fresco: para polvilhar no prato e realçar o sabor.
+  
+  3.Salada Caprese: uma combinação leve de tomate, manjericão e mussarela de búfala.
 
 
 Segundo Prompt:
@@ -26,7 +29,9 @@ Segundo Prompt:
 - Pergunta: "Liste 2 bebidas que acompanhem um jantar romântico."
 
 - Resposta simulada: Para bebidas, duas boas opções seriam:
+  
     1.Vinho tinto suave: combina bem com pratos de massa e cria uma atmosfera romântica.
+  
     2.Espumante rosé: leve, refrescante e ideal para brindar momentos especiais.
 
 
@@ -35,7 +40,8 @@ Terceiro Prompt:
 - Pergunta: "Liste um lugar perfeito para um jantar romântico em Paris."
 
 - Resposta simulada: Um dos lugares mais icônicos seria:
-    1.Le Jules Verne: restaurante elegante localizado na Torre Eiffel, com uma vista espetacular da cidade e um menu requintado ideal para um jantar a dois.
+  
+  1.Le Jules Verne: restaurante elegante localizado na Torre Eiffel, com uma vista espetacular da cidade e um menu requintado ideal para um jantar a dois.
 
 
 Essas respostas são simuladas e baseadas em sugestões clássicas para jantares românticos. Para obter os resultados específicos, será preciso executar o fluxo no seu ambiente AWS.
